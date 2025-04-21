@@ -20,7 +20,7 @@ The paper introduces DOCSPLIT, a new unsupervised pretraining method designed fo
 ```
 ```
 docs/news-mx.html
-The text appears to be a collection of HTML codes, CSS stylesheets, and JavaScript codes from various web pages. The codes describe the layout, content, and functionality of multiple websites, including news outlets, educational platforms, and online courses. The codes also include data related to user settings, advertising, and layout management.
+The text appears to be a JSON object containing configuration settings for the El País website, including alert settings, subscription links, and social media links. The text also references a US Supreme Court decision allowing the Trump administration to use a 1798 war powers law to deport Venezuelans accused of being part of a criminal gang..
 ```
 ```
 docs/constitution-mx.txt
