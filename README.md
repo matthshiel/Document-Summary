@@ -20,19 +20,16 @@ The paper introduces DOCSPLIT, a new unsupervised pretraining method designed fo
 ```
 ```
 docs/news-mx.html
-The text appears to be a JSON object containing configuration settings for the El País website, including alert settings, subscription links, and social media links. The text also references a US Supreme Court decision allowing the Trump administration to use a 1798 war powers law to deport Venezuelans accused of being part of a criminal gang..
+A divided US Supreme Court has allowed Donald Trump to continue using a 1798 law to carry out deportations, without reviewing the legality of the expulsions themselves. The court has lifted a suspension declared by lower courts, allowing Trump to use the law. This decision has sparked controversy and criticism, particularly from those advocating for immigrants' rights.
 ```
 ```
 docs/constitution-mx.txt
 The Mexican Constitution, updated through 2010, guarantees individual rights and freedoms, including the right to education, freedom of speech and expression, and protection of personal data. The Constitution also establishes the rules for education, economic development, and labor relations, and outlines the powers and responsibilities of the federal government, states, and municipalities. Additionally, the Constitution defines the relationship between the state and religious organizations, and regulates the management of resources by the federal government, states, and municipalities.
 ```
-
-
 ```
 https://elpais.com/us/
-The text appears to be a CSS stylesheet for the El País news website, defining various styles and layouts for different screen sizes and devices. The styles cover a range of elements, including typography, colors, layouts, and animations, and are likely used to create a consistent visual brand for the website. The file is quite large, with over 1000 lines of code, and contains a mix of vendor prefixes, CSS variables, and custom properties.
+The article includes various articles and reports on various topics such as politics, economy, culture, technology, and more. Some of the highlights include the US government ordering certain citizens, including a naturalized Cuban, to self-deport, the US-Mexico border crisis, and the economic and trade policies of US President Trump. Additionally, there are articles on cultural and artistic topics, such as a review of a new Marvel movie, a profile of a famous actress, and a report on the musical genre of Latin music.
 ```
-
 ```
 https://www.cmc.edu/sites/default/files/about/images/20170213-cube.jpg
 * The image shows a hypercube, which is a four-dimensional geometric shape that can be visualized by projecting its points onto a two-dimensional space.
